@@ -1,26 +1,19 @@
 # SuperMarket_Analysis
 
-Variable Description:
-• PersonID - ID of the customer
 
-• Amount - Revenue that a customer has generated for the retail store
+## Introduction
+Analysing the business between the two supermarkets present in the two different areas, and improve their business.
 
-• Family Size - Number of members in a customer's family
+## Technologies used:
+python version: 3.6
 
-• Distance - Distance between customer's place and the nearest retail store.
+## Required files:
 
-• Duration - Total time duration of interaction between customer and retail store
+Retail_Train-1553348772483.csv : The training dataset containing all the information about both the supermarkets.
+ 
 
-• DirectVisit - Number of times the customer has directly visited the retail store
+## Running the project
 
-• OnlineVisit - Number of times the customer has visited the store online
-
-• Quantity - Total quantity of the products purchased
-
-• NumberofFrequentItems - Number of most frequently purchased items
-
-• TransactionMode - Mode of payment transaction
-
-• Area - Area code of retail store outlet
-
-• Occupation - Customer's occupation
+- Navigate to the project location.
+- Open "jupyter notebook"
+- Execute the code blocks
